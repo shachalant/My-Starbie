@@ -1,5 +1,6 @@
 # starbie
-<img width="452" height="380" alt="image" src="https://github.com/user-attachments/assets/6040d3b5-20ef-4a3e-b918-b9e30c93ab3f" />
+
+![image alt](https://github.com/shachalant/starbie/blob/8e5e8b727aa895d1bbaf4562a835187e3bed0b66/images/starbie_3d_model.png)
 
 A pocket-sized virtual pet device that lives on your desk, monitors your environment, and reacts to your interactions!
 
