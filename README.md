@@ -1,4 +1,4 @@
-# starbie
+# My Starbie
 
 ![image alt](https://github.com/shachalant/starbie/blob/8e5e8b727aa895d1bbaf4562a835187e3bed0b66/images/starbie_3d_model.png)
 
