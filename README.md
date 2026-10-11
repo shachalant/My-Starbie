@@ -1,5 +1,5 @@
 # starbie
-<img width="542" height="404" alt="image" src="https://github.com/user-attachments/assets/966dbb93-f1dd-4358-b547-cca3c1b772d4" />
+<img width="452" height="380" alt="image" src="https://github.com/user-attachments/assets/6040d3b5-20ef-4a3e-b918-b9e30c93ab3f" />
 
 A pocket-sized virtual pet device that lives on your desk, monitors your environment, and reacts to your interactions!
 
