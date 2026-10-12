@@ -1,0 +1,9 @@
+Part,Description,Quantity,Unit Price,Total Price,Vendor
+XIAO ESP32 C3,Microcontroller with built-in BLE,1,$5.14,$5.14,AliExpress
+0.96 OLED,Display,1,$1.19,$1.19,AliExpress
+MPU6050 breakout,Motion Sensing,1,$1.96,$1.96,Amazon
+DHT11,Temperature and Humidity,1,$1.19,$1.19,AliExpress
+MX Switches (30 pack),User Input,1,$1.19,$1.19,AliExpress
+Keycaps (10 pack),Keycap Covers,1,$0.86,$0.86,AliExpress
+10k Resistor,Pull-up resistor,1,$0.79,$0.79,AliExpress
+PCB,Custom PCB,1,$16.85,$16.85,JLCPCB
